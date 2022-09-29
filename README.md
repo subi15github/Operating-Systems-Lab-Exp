@@ -5,10 +5,12 @@
 ![Screenshot (27)](https://user-images.githubusercontent.com/113248863/193103027-2d56977c-b92a-4210-81f1-a34f29fa9fec.png)<br/>
 ## Experiment-2 : https://github.com/subi15github/Operating-Systems-Lab-Exp/blob/main/Day1%20LAB/content_copy.java <br/>
 > OUTPUT: <br/>
-![image](https://user-images.githubusercontent.com/113248863/193103586-cc6d4035-f8a3-4a19-b0ff-b0ce70dc3122.png)
+![image](https://user-images.githubusercontent.com/113248863/193103586-cc6d4035-f8a3-4a19-b0ff-b0ce70dc3122.png)<br/>
 
-## Experiment-3 : <br/>
+## Experiment-3 : https://github.com/subi15github/Operating-Systems-Lab-Exp/blob/main/Day1%20LAB/FCFS.java<br/>
 > OUTPUT: <br/>
+> ![image](https://user-images.githubusercontent.com/113248863/193104864-273befec-6e4c-4254-a11d-b1182e88082b.png)<br/>
+
 ## Experiment-4 : <br/>
 > OUTPUT: <br/>
 ## Experiment-5 : <br/>
