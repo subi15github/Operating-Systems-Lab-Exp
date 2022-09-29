@@ -15,9 +15,10 @@
 ## Experiment-5 : https://github.com/subi15github/Operating-Systems-Lab-Exp/blob/main/Day1%20LAB/Priority.java<br/>
 > OUTPUT: <br/>
 ![image](https://user-images.githubusercontent.com/113248863/193107375-0f61167b-d733-48f9-9eec-aae7ee18cf18.png)
-
-## Experiment-6 : <br/>
+## Experiment-6 : https://github.com/subi15github/Operating-Systems-Lab-Exp/blob/main/Day1%20LAB/round_robin.java<br/>
 > OUTPUT: <br/>
+<img width="454" alt="round_robin" src="https://user-images.githubusercontent.com/113248863/193108769-ab1f4460-e95f-4e9f-af91-20c6ae857854.png"><br/>
+
 ## DAY-2 LAB : <br/>
 ## Experiment-1 : <br/>
 > OUTPUT: <br/>
