@@ -12,7 +12,7 @@
 ## Experiment-4 : https://github.com/subi15github/Operating-Systems-Lab-Exp/blob/main/Day1%20LAB/SJF.java<br/>
 > OUTPUT: <br/>
 ![image](https://user-images.githubusercontent.com/113248863/193106738-eecde113-62ac-4bd1-be73-66085be6973e.png)<br/>
-## Experiment-5 : <br/>
+## Experiment-5 : https://github.com/subi15github/Operating-Systems-Lab-Exp/blob/main/Day1%20LAB/Priority.java<br/>
 > OUTPUT: <br/>
 ![image](https://user-images.githubusercontent.com/113248863/193107375-0f61167b-d733-48f9-9eec-aae7ee18cf18.png)
 
