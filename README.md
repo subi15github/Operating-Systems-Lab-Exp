@@ -27,8 +27,11 @@
 <img width="261" alt="Multithread" src="https://user-images.githubusercontent.com/113248863/193118330-837bf14f-401b-4f83-b505-f575a6ec348b.png"><br/>
 
 
-## Experiment-9 : <br/>
+## Experiment-9 : https://github.com/subi15github/Operating-Systems-Lab-Exp/blob/main/Day2%20LAB/dining_philosopher.java<br/>
 > OUTPUT: <br/>
+<img width="249" alt="dining" src="https://user-images.githubusercontent.com/113248863/193118814-4f191981-9d79-48bc-a2a1-c2e59a090d76.png"><br/>
+
+
 ## Experiment-10 : <br/>
 > OUTPUT: <br/>
 ## Experiment-11 : <br/>
