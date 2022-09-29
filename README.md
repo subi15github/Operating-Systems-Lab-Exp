@@ -20,17 +20,20 @@
 <img width="454" alt="round_robin" src="https://user-images.githubusercontent.com/113248863/193108769-ab1f4460-e95f-4e9f-af91-20c6ae857854.png"><br/>
 
 ## DAY-2 LAB : <br/>
-## Experiment-1 : <br/>
+## Experiment-7 : <br/>
 > OUTPUT: <br/>
-## Experiment-2 : <br/>
+## Experiment-8 : https://github.com/subi15github/Operating-Systems-Lab-Exp/blob/main/Day2%20LAB/multithreading<br/>
 > OUTPUT: <br/>
-## Experiment-3 : <br/>
+<img width="261" alt="Multithread" src="https://user-images.githubusercontent.com/113248863/193118330-837bf14f-401b-4f83-b505-f575a6ec348b.png"><br/>
+
+
+## Experiment-9 : <br/>
 > OUTPUT: <br/>
-## Experiment-4 : <br/>
+## Experiment-10 : <br/>
 > OUTPUT: <br/>
-## Experiment-5 : <br/>
+## Experiment-11 : <br/>
 > OUTPUT: <br/>
-## Experiment-6 : <br/>
+## Experiment-12 : <br/>
 > OUTPUT: <br/>
 ## DAY-3 LAB : <br/>
 > OUTPUT: <br/>
