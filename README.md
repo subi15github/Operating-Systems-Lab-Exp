@@ -38,6 +38,8 @@
 
 ## Experiment-12 : https://github.com/subi15github/Operating-Systems-Lab-Exp/blob/main/Day2%20LAB/two_level_directory<br/>
 > OUTPUT: <br/>
+![image](https://user-images.githubusercontent.com/113248863/193340381-5bdc8ebe-5abb-4853-a954-8fb0667031e8.png)<br/>
+
 ## DAY-3 LAB : <br/>
 ## Experiment-13 : https://github.com/subi15github/Operating-Systems-Lab-Exp/blob/main/Day3%20LAB/randomAccess_file<br/>
 > OUTPUT: <br/>
