@@ -63,6 +63,8 @@
 ![image](https://user-images.githubusercontent.com/113248863/193291884-760426d0-520d-435f-9c8f-91d5b3d2635a.png)<br/>
 ## Experiment-23 : https://github.com/subi15github/Operating-Systems-Lab-Exp/blob/main/Day4%20LAB/scan_disk<br/>
 > OUTPUT: <br/>
+> ![image](https://user-images.githubusercontent.com/113248863/193300256-b611a094-70d6-4f88-8094-ddbcd0cd8712.png)<br/>
+
 ## Experiment-24 : https://github.com/subi15github/Operating-Systems-Lab-Exp/blob/main/Day4%20LAB/c-scan_disk<br/>
 > OUTPUT: <br/>
 ## Experiment-25 : https://github.com/subi15github/Operating-Systems-Lab-Exp/blob/main/Day4%20LAB/file_access_permission<br/>
