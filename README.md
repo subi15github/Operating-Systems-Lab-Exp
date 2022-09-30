@@ -43,6 +43,8 @@
 > OUTPUT: <br/>
 ## Experiment-14 : https://github.com/subi15github/Operating-Systems-Lab-Exp/blob/main/Day3%20LAB/bankers_algo<br/>
 > OUTPUT: <br/>
+![image](https://user-images.githubusercontent.com/113248863/193337553-d302d527-df2f-431a-84b1-ec79575ca91b.png)<br/>
+
 ## Experiment-15 : https://github.com/subi15github/Operating-Systems-Lab-Exp/blob/main/Day3%20LAB/producer_consumer<br/>
 > OUTPUT: <br/>
 ![image](https://user-images.githubusercontent.com/113248863/193334513-8c530c4f-30ce-498c-94d7-33a51f743183.png)<br/>
