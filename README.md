@@ -32,8 +32,10 @@
 > OUTPUT: <br/>
 <img width="255" alt="first_fit" src="https://user-images.githubusercontent.com/113248863/193119270-e680d7ed-ec5e-4205-a16f-0ebcd1dd6dd5.png"><br/>
 
-## Experiment-11 : <br/>
+## Experiment-11 : https://github.com/subi15github/Operating-Systems-Lab-Exp/blob/main/Day2%20LAB/single_directory.c<br/>
 > OUTPUT: <br/>
+<img width="279" alt="singl_directory" src="https://user-images.githubusercontent.com/113248863/193193937-8b282e49-d746-4386-a6af-7c04bd3985e8.png"><br/>
+
 ## Experiment-12 : <br/>
 > OUTPUT: <br/>
 ## DAY-3 LAB : <br/>
