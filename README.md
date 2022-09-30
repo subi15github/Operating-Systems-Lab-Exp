@@ -67,6 +67,8 @@
 
 ## Experiment-24 : https://github.com/subi15github/Operating-Systems-Lab-Exp/blob/main/Day4%20LAB/c-scan_disk<br/>
 > OUTPUT: <br/>
+> ![image](https://user-images.githubusercontent.com/113248863/193301836-763aabdd-df3f-4918-b8de-9dea7936c6bc.png)<br/>
+
 ## Experiment-25 : https://github.com/subi15github/Operating-Systems-Lab-Exp/blob/main/Day4%20LAB/file_access_permission<br/>
 > OUTPUT: <br/>
 
