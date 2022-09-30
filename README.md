@@ -36,7 +36,7 @@
 > OUTPUT: <br/>
 <img width="279" alt="singl_directory" src="https://user-images.githubusercontent.com/113248863/193193937-8b282e49-d746-4386-a6af-7c04bd3985e8.png"><br/>
 
-## Experiment-12 : <br/>
+## Experiment-12 : https://github.com/subi15github/Operating-Systems-Lab-Exp/blob/main/Day2%20LAB/two_level_directory<br/>
 > OUTPUT: <br/>
 ## DAY-3 LAB : <br/>
 > OUTPUT: <br/>
