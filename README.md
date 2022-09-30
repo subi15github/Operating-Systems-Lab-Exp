@@ -53,6 +53,7 @@
 ![image](https://user-images.githubusercontent.com/113248863/193332136-d493cca2-6aee-411a-9755-ea0edbced133.png)<br/>
 ## Experiment-18 : https://github.com/subi15github/Operating-Systems-Lab-Exp/blob/main/Day3%20LAB/optimal_paging<br/>
 > OUTPUT: <br/>
+![image](https://user-images.githubusercontent.com/113248863/193332862-70f71581-062e-47af-9753-28332bde0405.png)<br/>
 ## DAY-4 LAB : <br/>
 ## Experiment-19 : https://github.com/subi15github/Operating-Systems-Lab-Exp/blob/main/Day4%20LAB/file_allocation<br/>
 > OUTPUT: <br/>
