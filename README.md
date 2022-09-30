@@ -54,6 +54,7 @@
 ## DAY-4 LAB : <br/>
 ## Experiment-19 : https://github.com/subi15github/Operating-Systems-Lab-Exp/blob/main/Day4%20LAB/file_allocation<br/>
 > OUTPUT: <br/>
+![image](https://user-images.githubusercontent.com/113248863/193326683-c74420af-6226-4998-8e1b-6708e0b12f9c.png)<br/>
 ## Experiment-20 : https://github.com/subi15github/Operating-Systems-Lab-Exp/blob/main/Day4%20LAB/file_allocation2<br/>
 > OUTPUT: <br/>
 ![image](https://user-images.githubusercontent.com/113248863/193325672-58b7ba73-ecd2-4c63-878c-ab7f5f50642e.png)<br/>
