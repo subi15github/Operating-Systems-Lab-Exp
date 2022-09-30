@@ -58,6 +58,7 @@
 > OUTPUT: <br/>
 ## Experiment-21 : https://github.com/subi15github/Operating-Systems-Lab-Exp/blob/main/Day4%20LAB/file_allocation3<br/>
 > OUTPUT: <br/>
+![image](https://user-images.githubusercontent.com/113248863/193314036-21e1eb7f-b5e2-464d-b55d-01a183707a83.png)<br/>
 ## Experiment-22 : https://github.com/subi15github/Operating-Systems-Lab-Exp/blob/main/Day4%20LAB/fcfs_disk<br/>
 > OUTPUT: <br/>
 ![image](https://user-images.githubusercontent.com/113248863/193291884-760426d0-520d-435f-9c8f-91d5b3d2635a.png)<br/>
