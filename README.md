@@ -56,6 +56,7 @@
 > OUTPUT: <br/>
 ## Experiment-20 : https://github.com/subi15github/Operating-Systems-Lab-Exp/blob/main/Day4%20LAB/file_allocation2<br/>
 > OUTPUT: <br/>
+![image](https://user-images.githubusercontent.com/113248863/193325672-58b7ba73-ecd2-4c63-878c-ab7f5f50642e.png)<br/>
 ## Experiment-21 : https://github.com/subi15github/Operating-Systems-Lab-Exp/blob/main/Day4%20LAB/file_allocation3<br/>
 > OUTPUT: <br/>
 ![image](https://user-images.githubusercontent.com/113248863/193314036-21e1eb7f-b5e2-464d-b55d-01a183707a83.png)<br/>
