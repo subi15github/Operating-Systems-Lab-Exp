@@ -1,93 +1,52 @@
-#include <stdio.h>
-int request[50];
-int SIZE;
-int pre;
-int head;
-int uptrack;
-int downtrack;
-struct max{
-    int up;
-    int down;
-} kate[50];
-int dist(int a, int b){
-    if (a > b)
-        return a - b;
-    return b - a;
-}
-void sort(int n){
-    int i, j;
-    for (i = 0; i < n - 1; i++){
-        for (j = 0; j < n - i - 1; j++){
-            if (request[j] > request[j + 1]){
-                int temp = request[j];
-                request[j] = request[j + 1];
-                request[j + 1] = temp;
-            }
-        }
-    }
-    j = 0;
-    i = 0;
-    while (request[i] != head){
-        kate[j].down = request[i];
-        j++;
-        i++;
-    }
-    downtrack = j;
-    i++;
-    j = 0;
-    while (i < n){
-        kate[j].up = request[i];
-        j++;
-        i++;
-    }
-    uptrack = j;
-}
-void scan(int n){
-    int i;
-    int seekcount = 0;
-    printf("SEEK SEQUENCE = ");
-    sort(n);
-    if (pre < head){
-        for (i = 0; i < uptrack; i++){
-            printf("%d ", head);
-            seekcount = seekcount + dist(head, kate[i].up);
-            head = kate[i].up;
-        }
-        for (i = downtrack - 1; i > 0; i--){
-            printf("%d ", head);
-            seekcount = seekcount + dist(head, kate[i].down);
-            head = kate[i].down;
-        }
-    }
-    else{
-        for (i = downtrack - 1; i >= 0; i--){
-            printf("%d ", head);
-            seekcount = seekcount + dist(head, kate[i].down);
-            head = kate[i].down;
-        }
-        for (i = 0; i < uptrack - 1; i++){
-            printf("%d ", head);
-            seekcount = seekcount + dist(head, kate[i].up);
-            head = kate[i].up;
-        }
-    }
-    printf(" %d\nTOTAL DISTANCE :%d", head, seekcount);
-}
+#include<stdio.h>
 int main(){
-    int n, i;
-    printf("ENTER THE DISK SIZE :\n");
-    scanf("%d", &SIZE);
-    printf("ENTER THE NO OF REQUEST SEQUENCE :\n");
-    scanf("%d", &n);
-    printf("ENTER THE REQUEST SEQUENCE :\n");
-    for (i = 0; i < n; i++)
-        scanf("%d", &request[i]);
-    printf("ENTER THE CURRENT HEAD :\n");
-    scanf("%d", &head);
-    request[n] = head;
-    request[n + 1] = SIZE - 1;
-    request[n + 2] = 0;
-    printf("ENTER THE PRE REQUEST :\n");
-    scanf("%d", &pre);
-    scan(n + 3);
+    int no_requests,i,temp;
+    int requests_seq[20];
+    int current_position;
+    printf("Enter the number of requests:");
+    scanf("%d",&no_requests);
+    printf("Enter the sequence of requests:");
+    for(i=0;i<no_requests;i++){
+        scanf("%d",&requests_seq[i]);
+    }
+    printf("Sequence of requests:\n");
+    for(i=0;i<no_requests;i++){
+        for(int j=i+1;j<no_requests;j++){
+            temp=0;
+            if(requests_seq[i]>requests_seq[j]){
+            temp=requests_seq[i];
+            requests_seq[i]=requests_seq[j];
+            requests_seq[j]=temp;
+            }
+
+        }
+    }
+    for(i=0;i<no_requests;i++){
+        printf("%d\t\n",requests_seq[i]);
+    }
+    printf("Enter current position:");
+    scanf("%d",&current_position);
+    printf("%d--->",current_position);
+    for(i=0;i<no_requests;i++){
+        if(requests_seq[i]>=current_position)
+        printf("%d--->",requests_seq[i]);
+    }
+    for(i=0;i<no_requests;i++){
+        for(int j=i+1;j<no_requests;j++){
+            temp=0;
+            if(requests_seq[i]<requests_seq[j]){
+            temp=requests_seq[i];
+            requests_seq[i]=requests_seq[j];
+            requests_seq[j]=temp;
+            }
+
+        }
+    }
+    for(i=0;i<no_requests;i++){
+        if(requests_seq[i]<=current_position){
+        printf("%d",requests_seq[i]);
+        printf("--->");
+        }
+    }
+    return 0;
 }
