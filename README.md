@@ -45,6 +45,8 @@
 > OUTPUT: <br/>
 ## Experiment-15 : https://github.com/subi15github/Operating-Systems-Lab-Exp/blob/main/Day3%20LAB/producer_consumer<br/>
 > OUTPUT: <br/>
+![image](https://user-images.githubusercontent.com/113248863/193334513-8c530c4f-30ce-498c-94d7-33a51f743183.png)<br/>
+
 ## Experiment-16 : https://github.com/subi15github/Operating-Systems-Lab-Exp/blob/main/Day3%20LAB/FIFO_paging<br/>
 > OUTPUT: <br/>
 > ![image](https://user-images.githubusercontent.com/113248863/193329009-81ab58f2-ae9d-4658-93c1-f5ce8d53ab15.png)<br/>
