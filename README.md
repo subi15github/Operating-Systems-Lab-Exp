@@ -39,31 +39,31 @@
 ## Experiment-12 : https://github.com/subi15github/Operating-Systems-Lab-Exp/blob/main/Day2%20LAB/two_level_directory<br/>
 > OUTPUT: <br/>
 ## DAY-3 LAB : <br/>
+## Experiment-13 : https://github.com/subi15github/Operating-Systems-Lab-Exp/blob/main/Day3%20LAB/randomAccess_file<br/>
 > OUTPUT: <br/>
-## Experiment-13 : <br/>
+## Experiment-14 : https://github.com/subi15github/Operating-Systems-Lab-Exp/blob/main/Day3%20LAB/bankers_algo<br/>
 > OUTPUT: <br/>
-## Experiment-14 : <br/>
+## Experiment-15 : https://github.com/subi15github/Operating-Systems-Lab-Exp/blob/main/Day3%20LAB/producer_consumer<br/>
 > OUTPUT: <br/>
-## Experiment-15 : <br/>
+## Experiment-16 : https://github.com/subi15github/Operating-Systems-Lab-Exp/blob/main/Day3%20LAB/FIFO_paging<br/>
 > OUTPUT: <br/>
-## Experiment-16 : <br/>
+## Experiment-17 : https://github.com/subi15github/Operating-Systems-Lab-Exp/blob/main/Day3%20LAB/LRU_paging<br/>
 > OUTPUT: <br/>
-## Experiment-17 : <br/>
+## Experiment-18 : https://github.com/subi15github/Operating-Systems-Lab-Exp/blob/main/Day3%20LAB/optimal_paging<br/>
 > OUTPUT: <br/>
-## Experiment-18 : <br/>
 ## DAY-4 LAB : <br/>
+## Experiment-19 : https://github.com/subi15github/Operating-Systems-Lab-Exp/blob/main/Day4%20LAB/file_allocation<br/>
 > OUTPUT: <br/>
-## Experiment-19 : <br/>
+## Experiment-20 : https://github.com/subi15github/Operating-Systems-Lab-Exp/blob/main/Day4%20LAB/file_allocation2<br/>
 > OUTPUT: <br/>
-## Experiment-20 : <br/>
+## Experiment-21 : https://github.com/subi15github/Operating-Systems-Lab-Exp/blob/main/Day4%20LAB/file_allocation3<br/>
 > OUTPUT: <br/>
-## Experiment-21 : <br/>
+## Experiment-22 : https://github.com/subi15github/Operating-Systems-Lab-Exp/blob/main/Day4%20LAB/fcfs_disk<br/>
 > OUTPUT: <br/>
-## Experiment-22 : <br/>
+## Experiment-23 : https://github.com/subi15github/Operating-Systems-Lab-Exp/blob/main/Day4%20LAB/scan_disk<br/>
 > OUTPUT: <br/>
-## Experiment-23 : <br/>
+## Experiment-24 : https://github.com/subi15github/Operating-Systems-Lab-Exp/blob/main/Day4%20LAB/c-scan_disk<br/>
 > OUTPUT: <br/>
-## Experiment-24 : <br/>
+## Experiment-25 : https://github.com/subi15github/Operating-Systems-Lab-Exp/blob/main/Day4%20LAB/file_access_permission<br/>
 > OUTPUT: <br/>
-## Experiment-25 : <br/>
 
