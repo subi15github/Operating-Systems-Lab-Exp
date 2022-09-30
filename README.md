@@ -20,7 +20,7 @@
 <img width="454" alt="round_robin" src="https://user-images.githubusercontent.com/113248863/193108769-ab1f4460-e95f-4e9f-af91-20c6ae857854.png"><br/>
 
 ## DAY-2 LAB : <br/>
-## Experiment-7 : <br/>
+## Experiment-7 : https://github.com/subi15github/Operating-Systems-Lab-Exp/blob/main/Day2%20LAB/inter_process<br/>
 > OUTPUT: <br/>
 ## Experiment-8 : https://github.com/subi15github/Operating-Systems-Lab-Exp/blob/main/Day2%20LAB/multithreading<br/>
 > OUTPUT: <br/>
