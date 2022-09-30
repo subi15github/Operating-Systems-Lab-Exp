@@ -1,1 +1,46 @@
+#include<stdio.h>
+#include<stdlib.h>
+int main()
+{
+    int no_already,f[20],i,j,a,st,len,c;
+    for(i=0;i<20;i++){
+        f[i]=0;
+    }
+    printf("Enter number of blocks already allocated:\n");
+    scanf("%d",&no_already);
+    printf("Enter already allocated blocks:\n");
+    for(i=0;i<no_already;i++){
+        scanf("%d",&a);
+        f[a]=1;
+    }
+    x:printf("Enter index starting block and length:\n");
+    scanf("%d\n%d",&st,&len);
+    int k=len;
+    if(f[st]==0)
+    {
+    for(j=st;j<(st+k);j++){
+        if(f[j]==0){
+            f[j]=1;
+            printf("%d------>%d\n",j,f[j]);
+        }
+        else{
+            printf("%d starting block is already allocated\n",j);
+            k++;
+        }
+    }
+    }
+    else{
+        printf("%d starting block is already allocated\n",st);
+        printf("Do you want to enter more file(yes-1/No-0)\n");
+        scanf("%d",&c);
+        if(c==1)
+        goto x;
+        else
+        exit(0);
+    }
+    return 0;
+    
 
+    
+
+}
